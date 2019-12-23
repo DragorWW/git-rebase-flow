@@ -1,5 +1,9 @@
 # Git rebase flow
 
+## ⛳ Benefits
+ - simple work with dependent tasks
+ - pretty history
+
 ## 🚦convention
 - ❌ Merge commit
 - ❌ Development process history
@@ -13,6 +17,7 @@
 - ✅ Atomic tasks
 
 ## 🛠 Tools
+- ⚙️  Automatization
 - 🏗 Decomposition
 - 🚩 Feature flags
 - 🔍 Testable changes
